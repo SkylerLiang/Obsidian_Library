@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "e31e834604b221ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f10b6be878a9df2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45bc136ec37e9153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大象底盘的控制流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e629fb0ce7c2543",
+    "type": "split",
+    "children": [
+      {
+        "id": "505630b74f2c80ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38048b6e3f6d2b0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f4899e99f142632",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bdd07024c3bb16f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5af99c0870c16ee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eba105c6602c558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21d61ec7075c9f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大象底盘的控制流程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dec2e1cdf04603e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大象底盘的控制流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ba9d5f60aa0519d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78bab9a07ad02a18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大象底盘的控制流程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "45bc136ec37e9153",
+  "lastOpenFiles": [
+    "大象底盘的控制流程.md"
+  ]
+}
