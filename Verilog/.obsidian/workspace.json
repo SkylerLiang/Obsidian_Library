@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04d3c143349e7524",
+            "id": "8ba8efecf296eb53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verilog数据类型.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c391b7bc4111e77e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verilog数值表示.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba564624b4a10992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verilog数据类型.md",
+                "file": "2023-10-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1cc253748f0cc0b1",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verilog数据类型.md",
+                "file": "2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verilog数据类型.md",
+                "file": "2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verilog数据类型.md"
+                "file": "2023-10-09.md"
               }
             }
           }
@@ -158,10 +135,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -170,10 +149,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04d3c143349e7524",
+  "active": "8ba8efecf296eb53",
   "lastOpenFiles": [
-    "Verilog数值表示.md",
+    "未命名.canvas",
+    "2023-10-09.md",
+    "Verilog表达式.md",
+    "Verilog基础语法.md",
     "Verilog数据类型.md",
-    "Verilog基础语法.md"
+    "Verilog数值表示.md"
   ]
 }
