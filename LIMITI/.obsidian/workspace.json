@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "模糊控制.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -163,7 +163,10 @@
   },
   "active": "ef6393edfef5da7b",
   "lastOpenFiles": [
-    "大象底盘的控制流程.md",
-    "未命名.md"
+    "2023-10-13.md",
+    "未命名.canvas",
+    "未命名.md",
+    "模糊控制.md",
+    "大象底盘的控制流程.md"
   ]
 }
